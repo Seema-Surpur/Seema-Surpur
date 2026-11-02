@@ -17,7 +17,7 @@ I enjoy transforming ideas into practical applications using machine learning, c
 
 ## Featured Projects
 - ECG-Signal-Analyzer — AI-powered ECG image-to-signal analysis for healthcare digitization
-- AI-Camera-Analyser — Camera-based image analysis for scene assessment and visual understanding
+- AI-Camera-Analysis — Camera-based image analysis for scene assessment and visual understanding
 - AI-Interview-Preparation — AI-driven interview preparation assistant
 - AI-Music-Composer — Generative AI project for music creation
 - Resume-Screening-Application — Automated resume screening and analysis system
