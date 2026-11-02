@@ -52,7 +52,7 @@ My work spans healthcare AI, workflow automation, career tools and creative AI e
 | Project | Domain | Description |
 |---|---|---|
 | [**ECG-Signal-Analyzer**](https://github.com/Seema-Surpur/ECG-Signal-Analyzer) | 🏥 Healthcare AI | Converts ECG images into digital signals for analysis, supporting healthcare digitization |
-| **AI-Camera-Analysis** |(https://github.com/Seema-Surpur/AI-Camera-Analysis) | 👁️ Computer Vision | Camera-based image analysis for scene assessment and visual understanding |
+| [**AI-Camera-Analysis**](https://github.com/Seema-Surpur/AI-Camera-Analysis) | 👁️ Computer Vision | Camera-based image analysis for scene assessment and visual understanding |
 | [**AI-Interview-Preparation**](https://github.com/Seema-Surpur/AI-Interview-Preparation) | 💼 Productivity | AI-driven assistant that helps candidates practise and prepare for interviews |
 | [**AI-Music-Composer**](https://github.com/Seema-Surpur/AI-Music-Composer) | 🎵 Generative AI | Generative AI system for composing original music |
 | [**Resume-Screening-Application**](https://github.com/Seema-Surpur/Resume-Screening-Application) | 🤖 Automation | Automated resume screening and candidate analysis for faster hiring decisions |
